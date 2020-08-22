@@ -29,3 +29,10 @@ In this challenge, you must first implement a queue using two stacks. Then proce
 1 x: Enqueue element x into the end of the queue.
 2: Dequeue the element at the front of the queue.
 3: Print the element at the front of the queue.
+
+ 5) Comparator program:
+ Comparators are used to compare two objects. In this challenge, you'll create a comparator and use it to sort an array. The Player class is provided in the editor below. It has two fields:
+
+Name : a string.
+Score : an integer.
+Given an array of n Player objects, write a comparator that sorts them in order of decreasing score. If 2 or more players have the same score, sort those players alphabetically ascending by name. To do this, you must create a Checker class that implements the Comparator interface, then write an int compare(Player a, Player b) method implementing the Comparator.compare(T o1, T o2) method. 
