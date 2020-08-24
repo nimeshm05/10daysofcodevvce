@@ -36,3 +36,7 @@ A queue is an abstract data type that maintains the order in which elements were
  Name : a string.
  Score : an integer.
  Given an array of n Player objects, write a comparator that sorts them in order of decreasing score. If 2 or more players have the same score, sort those players         alphabetically ascending by name. To do this, you must create a Checker class that implements the Comparator interface, then write an int compare(Player a, Player b) method    implementing the Comparator.compare(T o1, T o2) method. 
+ 
+ # 6) Knight program:
+ Refer the link below for the problem statement.
+ https://www.hackerrank.com/challenges/knightl-on-chessboard/problem
