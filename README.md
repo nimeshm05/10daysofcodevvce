@@ -40,3 +40,7 @@ A queue is an abstract data type that maintains the order in which elements were
  # 6) Knight program:
  Refer the link below for the problem statement.
  https://www.hackerrank.com/challenges/knightl-on-chessboard/problem
+ 
+ # 7) Full Counting sort program:
+ Refer the link below for the problem statement.
+ https://www.hackerrank.com/challenges/countingsort4/problem
