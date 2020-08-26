@@ -44,3 +44,7 @@ A queue is an abstract data type that maintains the order in which elements were
  # 7) Full Counting sort program:
  Refer the link below for the problem statement.
  https://www.hackerrank.com/challenges/countingsort4/problem
+ 
+ # 8) Alice and bob silly game program:
+ Refer the link below for the problem statement.
+ https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem
