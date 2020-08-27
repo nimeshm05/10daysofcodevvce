@@ -48,3 +48,7 @@ A queue is an abstract data type that maintains the order in which elements were
  # 8) Alice and bob silly game program:
  Refer the link below for the problem statement.
  https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem
+ 
+ # 9) Aptitude Test program:
+ Refer the link below for the problem statement.
+ https://www.hackerrank.com/challenges/the-best-aptitude-test/problem
