@@ -52,3 +52,7 @@ A queue is an abstract data type that maintains the order in which elements were
  # 9) Aptitude Test program:
  Refer the link below for the problem statement.
  https://www.hackerrank.com/challenges/the-best-aptitude-test/problem
+ 
+ # 10) Panda program:
+ Refer the link below for the problem statement.
+ https://www.hackerrank.com/challenges/littlepandapower/problem
